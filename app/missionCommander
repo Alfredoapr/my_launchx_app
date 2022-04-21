@@ -1,0 +1,9 @@
+class MissionCommander {
+    constructor (name){
+        this.name = name
+    }
+}
+
+//Esta line nos permite exportar nuestra clase
+
+module.exports = MissionCommander

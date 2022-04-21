@@ -1,0 +1,24 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfredoapr/my_launchx_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfredoapr/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/Alfredoapr/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
